@@ -1,5 +1,10 @@
 # Educational Institute Admission & Student Progress Management System (ServiceNow)
 
+## 🎥 Project Demonstration
+
+A walkthrough of the application and its features can be viewed here:
+▶https://youtu.be/8gqzPVbPfpM
+
 ## Overview
 This project is a custom ServiceNow application designed to simulate an educational institute management system.  
 It automates student admission processes, fee calculation, and student academic progress tracking.
